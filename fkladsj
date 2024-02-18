@@ -1,0 +1,60 @@
+[33mcommit 72874d71937cb0ec06be154d9c6898193a7cbc9c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate-readme[m[33m, [m[1;31morigin/update-readme[m[33m)[m
+Author: Sachin <makwana.sachinm@gmail.com>
+Date:   Fri Feb 2 21:53:15 2024 +0530
+
+    added a new file on new branch update-readme
+
+[33mcommit 7744b989817a5ce1f37cc2cc4f1be350a9e6f563[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: samsami2u <samsami2um@gmail.com>
+Date:   Fri Feb 2 21:46:22 2024 +0530
+
+    Update anothertst.txt
+
+[33mcommit 939ce77e3fee8e5c94745a156170e0e1753ca9dc[m
+Author: Sachin <makwana.sachinm@gmail.com>
+Date:   Fri Feb 2 21:45:31 2024 +0530
+
+    another new file
+
+[33mcommit d5158ec476a04fc592a6e6cba80e2e45f2149e11[m
+Merge: c0885ee 69c58f6
+Author: Sachin <makwana.sachinm@gmail.com>
+Date:   Fri Feb 2 21:43:53 2024 +0530
+
+    removed conflict from the local and commiting now
+
+[33mcommit c0885ee2ef3618d4563c976755b418d53605c45f[m
+Author: Sachin <makwana.sachinm@gmail.com>
+Date:   Fri Feb 2 21:38:47 2024 +0530
+
+    updating readme from the local
+
+[33mcommit 69c58f68bdf1dc93cc811a2137c8ca5d3324e83e[m
+Author: samsami2u <samsami2um@gmail.com>
+Date:   Fri Feb 2 21:36:06 2024 +0530
+
+    Update README.md
+
+[33mcommit 8ed71c2a0485ca7f6acf4fa85f09064dc692ef73[m
+Author: samsami2u <samsami2um@gmail.com>
+Date:   Fri Feb 2 21:31:27 2024 +0530
+
+    Create README.md
+
+[33mcommit 6be6af583285faab5454b89656703a259dfe7817[m
+Author: Sachin <makwana.sachinm@gmail.com>
+Date:   Fri Feb 2 20:37:45 2024 +0530
+
+    changed the tst file with hello world
+
+[33mcommit 1edcf131b6cd94d6764b3fddfa6d6cc824e39db6[m
+Author: Sachin <makwana.sachinm@gmail.com>
+Date:   Fri Feb 2 20:23:31 2024 +0530
+
+    committing the new test file
+
+[33mcommit 9cce1d64a192d7ac25f2d7c1cc4ee980346c8fa3[m
+Author: sachin <makwana.sachinm@gmail.com>
+Date:   Wed Jan 31 19:34:07 2024 +0530
+
+    tst file
